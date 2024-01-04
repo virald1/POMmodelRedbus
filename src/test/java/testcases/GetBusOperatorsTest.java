@@ -15,11 +15,8 @@ public class GetBusOperatorsTest extends BaseTest{
 		OperatorsDirectoryPage busOpearators=home.gotoBusOperators();
 											 busOpearators.getAllBusOpertorofA();
 											 busOpearators.updateBusOperatorsInFile("BusOperators");
+
 											 
-											//fail
-											 
-										 				 
-							
 	}
 	
 	
