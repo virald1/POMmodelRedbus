@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Redbus Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="extentlisteners.ExtentListeners"/>
+  </listeners>
+  <test name="Bus Operators Test(failed)">
+    <classes>
+      <class name="testcases.GetBusOperatorsTest">
+        <methods>
+          <include name="getBusOperatorsTest"/>
+        </methods>
+      </class> <!-- testcases.GetBusOperatorsTest -->
+    </classes>
+  </test> <!-- Bus Operators Test(failed) -->
+</suite> <!-- Failed suite [Redbus Suite] -->

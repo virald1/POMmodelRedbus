@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MMT Suite]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="extentlisteners.ExtentListeners"/>
+  </listeners>
+  <test name="Search Flight Test(failed)">
+    <classes>
+      <class name="testcases.searchFlightTest">
+        <methods>
+          <include name="searchFlightTests" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testcases.searchFlightTest -->
+    </classes>
+  </test> <!-- Search Flight Test(failed) -->
+</suite> <!-- Failed suite [MMT Suite] -->

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Config property loaded<br>]]>
+    </line>
+    <line>
+      <![CDATA[Browser launched<br>]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to testsite URL<br>]]>
+    </line>
+    <line>
+      <![CDATA[Cliking on an Element: viewAll<br>]]>
+    </line>
+    <line>
+      <![CDATA[Cliking on an Element: directory I<br>]]>
+    </line>
+    <line>
+      <![CDATA[Cliking on an Element: directory R<br>]]>
+    </line>
+    <line>
+      <![CDATA[Cliking on an Element: directory A<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-12-05T13:01:23Z" name="Redbus Suite" finished-at="2023-12-05T13:01:43Z" duration-ms="19447">
+    <groups>
+    </groups>
+    <test started-at="2023-12-05T13:01:23Z" name="Bus Operators Test" finished-at="2023-12-05T13:01:43Z" duration-ms="19447">
+      <class name="testcases.GetBusOperatorsTest">
+        <test-method signature="getBusOperatorsTest()[pri:0, instance:testcases.GetBusOperatorsTest@6c345c5f]" started-at="2023-12-05T18:31:23Z" name="getBusOperatorsTest" finished-at="2023-12-05T18:31:43Z" duration-ms="19414" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Config property loaded<br>]]>
+            </line>
+            <line>
+              <![CDATA[Browser launched<br>]]>
+            </line>
+            <line>
+              <![CDATA[Navigated to testsite URL<br>]]>
+            </line>
+            <line>
+              <![CDATA[Cliking on an Element: viewAll<br>]]>
+            </line>
+            <line>
+              <![CDATA[Cliking on an Element: directory I<br>]]>
+            </line>
+            <line>
+              <![CDATA[Cliking on an Element: directory R<br>]]>
+            </line>
+            <line>
+              <![CDATA[Cliking on an Element: directory A<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- getBusOperatorsTest -->
+      </class> <!-- testcases.GetBusOperatorsTest -->
+    </test> <!-- Bus Operators Test -->
+  </suite> <!-- Redbus Suite -->
+</testng-results>

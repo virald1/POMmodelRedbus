@@ -1,0 +1,4 @@
+INFO    2023-12-05 18:31:33,349 [main] base.Basepage  - Cliking on an Element: viewAll
+INFO    2023-12-05 18:31:34,018 [main] base.Basepage  - Cliking on an Element: directory I
+INFO    2023-12-05 18:31:34,723 [main] base.Basepage  - Cliking on an Element: directory R
+INFO    2023-12-05 18:31:35,380 [main] base.Basepage  - Cliking on an Element: directory A
